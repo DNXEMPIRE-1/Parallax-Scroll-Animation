@@ -11,6 +11,7 @@ To run the project in your local environment, follow these steps:
 3. Run `npm run start` or `yarn start` to get the project started.
 4. Open [http://localhost:5173](http://localhost:5173) (or the address shown in your console) in your web browser to view the app.
 
-## 🍿 Video
+## 🍿 Screenshots
 
-![Parallax Scroll Animation Demo](demo_thumbnail.jpg)
+![All pages](/assets/scrnli_5_8_2024_7-27-27%20PM.png)
+
