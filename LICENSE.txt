@@ -1,6 +1,6 @@
 The MIT License (MIT)
 
-Copyright (c) 2024 Nothing_4us (https://codepen.io/nothing4us/pen/GRBKgWX)
+Copyright (c) 2024 DNX EMPIRE
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
