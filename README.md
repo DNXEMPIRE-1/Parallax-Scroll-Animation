@@ -2,7 +2,7 @@
 
 Welcome to the Parallax Scroll Animation project! 🚀 This project aims to provide a simple yet powerful way to add eye-catching parallax scroll animations to your web projects. 
 
-(https://github.com/DNXEMPIRE-1/Parallax-Scroll-Animation/blob/main/animation.mp4)
+![Preview](/animation.mp4)
 
 ## Installation
 
