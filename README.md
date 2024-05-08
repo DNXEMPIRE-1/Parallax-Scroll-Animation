@@ -13,4 +13,4 @@ To run the project in your local environment, follow these steps:
 
 ## 🍿 Video
 
-[https://github.com/DNXEMPIRE-1/Parallax-Scroll-Animation/blob/main/](https://github.com/DNXEMPIRE-1/Parallax-Scroll-Animation/blob/main/assets/screencast.mov)
+![Parallax Scroll Animation Demo](demo_thumbnail.jpg)
